@@ -20,7 +20,7 @@ A modern, responsive personal portfolio website showcasing my projects, skills, 
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-username.github.io/portfolio)
+[View Live Portfolio](https://riddhi-sharma10.github.io/Personal-Portfolio-Website/)
 
 ## 🛠️ Technologies Used
 
