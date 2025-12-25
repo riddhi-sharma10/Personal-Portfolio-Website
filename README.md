@@ -22,17 +22,6 @@ A modern, responsive personal portfolio website showcasing my projects, skills, 
 
 [View Live Portfolio](https://your-username.github.io/portfolio)
 
-## 📸 Screenshots
-
-### Home Section
-![Home Section](screenshots/home.png)
-
-### Projects Section
-![Projects Section](screenshots/projects.png)
-
-### Skills Section
-![Skills Section](screenshots/skills.png)
-
 ## 🛠️ Technologies Used
 
 ### Frontend
